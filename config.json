@@ -1,0 +1,9 @@
+{
+	"ip":"game3.falixserver.net",
+	"port": 14306,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (achuzz) (achuzz)",
+	"login-cmd":"/login (achuzz)"
+}
